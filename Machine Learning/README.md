@@ -111,6 +111,8 @@
 - [RandomForestRegressor- Price Of Flight Ticket](https://github.com/Tanya-1109/MindWave/files/11927026/Data_Train.xlsx)
 - [Logistic Regression - Hate Speech and Offensive Language](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Logistic%20Regression%20-%20Hate%20Speech%20and%20Offensive%20Language/LogisticRegression_HateSpeechAndOffensiveLanguageDetection.ipynb)
 
+- [Random Forest Regressor - Gold Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/RandomForest_GoldPrice_Prediction)
+- [LSTM - Stock price Prediction](https://github.com/Volcano-Dragon/MindWave/tree/main/Machine%20Learning/LSTM%20-%20Stock%20Price%20Prediction)
 - [Laptop Price Prediction System](https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Machine%20Learning/Laptop_Price_Predictio)
 
 
@@ -268,6 +270,9 @@
 - [Airline 128k Reviews (Logistic Regression Model)](https://github.com/sahaycodes/MindWave/blob/airline/Machine%20Learning/Airline%20128K%20Reviews/Airline-128K%20Reviews%20(1).ipynb)
 
 - [Amazon Product length prdiction](/Amazon_product_length_prediction/nlp-with_regression.ipynb.ipynb)
+- [Volcanic-Eruption-Prediction(RandomForestRegressor)](/Volcanic-Eruption-Prediction/algorithm_dataset.ipynb)
+
+- [Credit Card Fraud Detection - SMOTE ](https://github.com/brahmamyv/MindWave/tree/ccf/Machine%20Learning/Credit%20Card%20Fraud%20Detection-SMOTE)
 
 
 ## Implementation Ideas
@@ -289,4 +294,4 @@
   - Cross Validation Techniques 
   - K fold CV technique
   - Passive Agressive Classifier
-
+  - RandomForestRegressor

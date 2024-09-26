@@ -64,6 +64,7 @@
 " >BidirectionRNN-Real or fake job classification</a>
 - <a href = "https://github.com/Kota-Karthik/MindWave_fork/blob/microOrganismClassification%23405/Deep%20Learning/MicroOrganisms_classification/CNN_microorganisms.ipynb" > CNN - Micro Organism Classification</a>
 
+- <a href = "https://github.com/The-Data-Alchemists-Manipal/MindWave/tree/main/Deep%20Learning/CNN_NIHchestxray.ipynb">CNN - NIH Chest X-Ray</a>
 
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/ECG_Heartbeat_Categorization_%23224/Deep%20Learning/ECG%20Categorization/model-algorithm.ipynb"> CNN - ECG categorization </a>
 - <a href="https://github.com/lcs2022026/MindWave_fork/blob/Tomato_Leaf_Disease_Detection_by_using_CNN_%2398/Deep%20Learning/Tomato%20Leaf%20Disease%20Detection/CNN_Tomato_Leaf_Disease_Detection.ipynb">CNN - Tomato Leaf Disease Detection</a>
@@ -72,6 +73,8 @@
 - <a href="https://github.com/Shubhra-31/MindWave/blob/main/Deep%20Learning/Tfidf_LightGBM_Netflix%20Movies%20and%20TV%20Shows/Lightgbm_Netflix%20Movies%20and%20TV%20Shows%20.ipynb"> Tfidf-LightGBM-Netlfix Movies and TV Shows </a>
 - <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/Soumya1219/MindWave/blob/master/Deep%20Learning/Traffic%20Sign%20Recognition/Traffic-Sign-Recognition.ipynb"> CNN - Traffic Sign Recognition
+ </a>
+ - <a href="https://github.com/smty2018/MindWave/tree/lstm/Deep%20Learning/Gasoline%20Price%20Time%20Series%20Forecasting"> LSTN, ARIMA-Gasoline Price Time series forecasting
  </a>
  - <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/restaurent_reviews_classification%23339/Deep%20Learning/restaurent%20reviews%20classification/RNN.ipynb
 "> RNN - restaurant reviews classification
@@ -108,6 +111,8 @@
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/CNN_Speech_Emotion_Recognition.ipynb">CNN - Speech Emotion Recognition</a>
 - <a href="https://github.com/lakshmishreea122003/face-detedtion-MTCNN">Face Detection MTCNN</a>
 - <a href="https://github.com/sujanrupu/MindWave/tree/main/Deep%20Learning/Gender_Recognition_Using_Voice">Gender Recognition Using Voice</a>
+- <a href="https://github.com/Kota-Karthik/MindWave_fork/blob/IMDB_spoiler_detection%23475/Deep%20Learning/IMDB%20spoiler%20detection/BERT.ipynb
+">Bidirectional RNN-IMDB spoiler detection</a>
 - <a href="https://github.com/sahaycodes/MindWave/tree/emo/Deep%20Learning/Facial%20Expression%20to%20Emoji%20Converter">Facial Expression to Emoji Converter
 - <a href="https://github.com/Shreyg-27/MindWave/tree/main/Deep%20Learning/Posture_Detection_Posenet">CNN - Posture Detection</a>
 - <a href="https://github.com/sujanrupu/MindWave/blob/main/Deep%20Learning/Helmet_Detection"> Helmet Detection </a>
